@@ -121,11 +121,11 @@ function MobileNavigation(props) {
             </div>
             <nav className="mt-6">
               <ul className="-my-2 divide-y divide-zinc-100 text-base text-zinc-800 dark:divide-zinc-100/5 dark:text-zinc-300">
-                <MobileNavItem href="/about">About</MobileNavItem>
-                {/* <MobileNavItem href="/articles">Articles</MobileNavItem> */}
-                <MobileNavItem href="/projects">Projects</MobileNavItem>
-                <MobileNavItem href="/speaking">Speaking</MobileNavItem>
-                {/* <MobileNavItem href="/uses">Uses</MobileNavItem> */}
+                <MobileNavItem href="/about">Visione</MobileNavItem>
+                {/* <MobileNavItem href="/articles">Articoli</MobileNavItem> */}
+                <MobileNavItem href="/projects">Dipartimenti</MobileNavItem>
+                <MobileNavItem href="/speaking">Storia</MobileNavItem>
+                {/* <MobileNavItem href="/uses">Media</MobileNavItem> */}
               </ul>
             </nav>
           </Popover.Panel>
