@@ -276,7 +276,7 @@ export default function Home({ articles }) {
   return (
     <>
       <Head>
-        <title>Victoria Jordan - Leader, artist, and frontend enthusiast</title>
+        <title>Solaris™ • Il 'Verse di Star Citizen attorno a un focolare</title>
         <meta
           name="description"
           content="I'm Victoria Jordan. A leader, artist, and frontend enthusiast"
